@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/geese-the-goose/.github/main/profile/assets/geese-transparent.png" width="100%" alt="Geese the Goose">
+  <img src="https://raw.githubusercontent.com/geese-the-goose/.github/main/profile/assets/real-to-use.png" width="100%" alt="Geese the Goose">
 </p>
 
 # Geese the Goose
